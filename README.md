@@ -1,10 +1,10 @@
-# Tata Data Visualisation – Power BI Project
+# Tata Data Visualization (Power BI Project)
 
 ## Overview
-This project is part of the Tata Virtual Experience Program conducted via Forage. The objective was to analyze retail transaction data and develop interactive dashboards using Power BI to generate actionable business insights for stakeholders.
+This project is part of the Tata Virtual Experience Program (Forage). It focuses on analyzing retail transaction data and building interactive Power BI dashboards to deliver actionable business insights for stakeholders.
 
 ## Objective
-To support data-driven decision-making by analyzing sales performance, customer behavior, and regional contributions to revenue.
+To enable data-driven decision-making by analyzing sales performance, customer behavior, and regional revenue contribution using Power BI.
 
 ## Tools & Technologies
 - Microsoft Power BI  
@@ -14,17 +14,17 @@ To support data-driven decision-making by analyzing sales performance, customer 
 
 ## Project Workflow
 
-### Data Cleaning and Preparation
+### Data Cleaning & Preparation
 - Removed missing and duplicate records  
 - Filtered invalid transactions (e.g., negative quantities)  
-- Standardized data types for analysis  
+- Standardized data types  
 
 ### Data Modeling
-- Established relationships between data tables  
+- Established relationships between tables  
 - Created calculated measures using DAX  
 
 ### Dashboard Development
-Built interactive dashboards to analyze:
+Built interactive dashboards covering:
 - Revenue trends over time  
 - Top-performing countries  
 - Best-selling products  
@@ -32,20 +32,20 @@ Built interactive dashboards to analyze:
 - Customer purchasing patterns  
 
 ## Key Insights
-- Revenue showed clear monthly fluctuations with peak periods identified  
-- A small number of countries contributed significantly to total revenue  
+- Revenue showed clear monthly fluctuations with identifiable peak periods  
+- A small number of countries contributed disproportionately to total revenue  
 - Certain products consistently generated higher demand  
-- Customer behavior analysis helped identify high-value segments  
+- Customer analysis helped identify high-value segments  
 
 ## Skills Demonstrated
-- Data cleaning and transformation  
+- Data cleaning & transformation  
 - Data modeling in Power BI  
 - Business intelligence reporting  
-- Data visualization  
-- Analytical thinking  
+- Dashboard design & visualization  
+- Analytical thinking & insight generation  
 
 ## Outcome
-This project demonstrates the ability to transform raw transactional data into meaningful business insights using Power BI, supporting strategic decision-making in a corporate environment.
+Demonstrates ability to transform raw transactional data into meaningful business insights using Power BI to support strategic decision-making in a corporate environment.
 
 ## Repository Contents
 - dashboard.png (Power BI dashboard image)  
